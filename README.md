@@ -1,1 +1,1 @@
-# EDA---On-Diagnosis-and-Titatnic_survival-data-sets
+# EDA On-Diagnosis,Titatnic_survival,Electric_motor-data-sets
